@@ -1,0 +1,4 @@
+supplier,unit_price_cny,normal_lead_time_days,expedited_lead_time_days,expedited_price_increase,max_supply_units,payment_terms,notes
+Supplier A,92,12,N/A,N/A,1200,"30% prepayment, 70% after delivery","Lowest price, but recent delivery delays"
+Supplier B,98,7,5,5%,800,30 days after delivery,"Most stable quality and delivery, but capacity is limited"
+Supplier C,95,9,N/A,N/A,600,15 days after delivery,Medium price and medium risk; one minor delay recently

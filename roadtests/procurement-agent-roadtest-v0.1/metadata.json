@@ -1,0 +1,25 @@
+{
+  "package": "procurement-agent-roadtest-v0.1",
+  "roadtest_id": "PAR-T001",
+  "title": "Urgent Supplier Selection for Procurement AI Agent",
+  "version": "0.1",
+  "created_date": "2026-06-24",
+  "locale": [
+    "en",
+    "zh"
+  ],
+  "privacy_design": "synthetic_data_agent_output_only",
+  "target_users": [
+    "AI Agent teams",
+    "AI consulting teams",
+    "enterprise AI PoC teams",
+    "AI evaluation/data companies"
+  ],
+  "core_failure_types": [
+    "lowest_price_bias",
+    "inventory_coverage_ignored",
+    "lead_time_risk_ignored",
+    "approval_rules_ignored",
+    "fabricated_information"
+  ]
+}

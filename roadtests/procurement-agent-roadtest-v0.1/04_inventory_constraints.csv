@@ -1,0 +1,7 @@
+metric,value,unit,notes
+current_inventory,360,units,Available now
+daily_consumption,60,units/day,Production consumption
+inventory_coverage,6,days,360 / 60
+safety_stock_requirement,120,units,Minimum desired remaining stock
+customer_delivery_deadline,14,days,Customer order due in 14 days
+required_purchase_quantity,1200,units,Quantity requested in this procurement

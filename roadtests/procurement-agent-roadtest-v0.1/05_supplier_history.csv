@@ -1,0 +1,4 @@
+supplier,historical_on_time_rate,quality_issue_rate,recent_notes
+Supplier A,72%,1.8%,Recent two deliveries had delay records
+Supplier B,95%,0.4%,Best historical delivery and quality performance
+Supplier C,85%,0.9%,One minor delay recently

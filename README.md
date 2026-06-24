@@ -22,6 +22,17 @@ The first public roadtest is:
 
 - `roadtests/procurement-agent-roadtest-v0.1` — urgent supplier selection for a manufacturing procurement agent.
 
+## Framework docs
+
+The repository is now organized around a broader readiness-evidence idea, not only one procurement task.
+
+- `docs/agent-readiness-framework.md` — readiness dimensions for enterprise AI agents.
+- `docs/governance-failure-taxonomy.md` — governance-level failure labels beyond one scenario.
+- `docs/evidence-layer.md` — why synthetic roadtests can provide pre-PoC readiness evidence without requiring customer data.
+- `docs/privacy.md` — privacy-first design principles.
+- `docs/positioning.md` — project positioning.
+- `docs/roadmap.md` — planned development path.
+
 ## What this is not
 
 This is not a generic benchmark of model intelligence.
@@ -100,6 +111,12 @@ A useful enterprise agent should be able to:
 This repository is at v0.1.
 
 It is intentionally small. The goal is to make one hard, clear, inspectable roadtest before expanding into more scenarios.
+
+The project now separates three layers:
+
+1. Concrete roadtest assets.
+2. Readiness framework and failure taxonomy.
+3. Evidence-layer explanation for PoC and governance use cases.
 
 ## Planned roadtests
 
